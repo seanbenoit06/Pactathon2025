@@ -15,7 +15,7 @@ An intelligent auto-response system that powers the City of Seattle's Facebook M
 ## Architecture
 
 ```
-User DMs @CityofSeattle
+User DMs City of Seattle on Facebook
          ↓
 Facebook Messenger Platform
          ↓
